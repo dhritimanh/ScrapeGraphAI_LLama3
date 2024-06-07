@@ -25,8 +25,8 @@ After this, in the VSCODE terminal : ```playwright install```
 
 Next, we write the scraper code in app.py 
 
-```from scrapegraphai.graphs import SmartScraperGraph
-
+```
+from scrapegraphai.graphs import SmartScraperGraph
 import nest_asyncio
 
 nest_asyncio.apply()
