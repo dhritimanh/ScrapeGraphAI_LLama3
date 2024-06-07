@@ -19,7 +19,9 @@ In case of permission error, open a terminal/powershell in admin mode, and run t
 
 Now try : ```env\Scripts\activate```
 
-## Now copy paste the requirement text from here onto your folder (you can download as well), and run ```pip install requirement.txt``` to install dependencies of the scraper.
+## Now copy paste the requirement text from here onto your folder (you can download as well), 
+
+## Run ```pip install requirement.txt``` to install dependencies of the scraper. It includes ```pip install scrapegraphai``` as well.
 
 After this, in the VSCODE terminal : ```playwright install``` 
 
